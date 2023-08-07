@@ -40,7 +40,7 @@ function Blog(props) {
                   guide</a> to explore the elements by including the CDN files into your project. But if you want
               to build a project with Flowbite I recommend you to follow the build tools steps so that you can
               purge and minify the generated CSS.</p>
-          <p>You'll also receive a lot of useful application UI, marketing UI, and e-commerce pages that can help
+          <p>Youll also receive a lot of useful application UI, marketing UI, and e-commerce pages that can help
               you get started with your projects even faster. You can check out this <a
                   href="https://flowbite.com/docs/components/tables/">comparison table</a> to better understand
               the differences between the open-source and pro version of Flowbite.</p>
@@ -49,8 +49,8 @@ function Blog(props) {
               will come in handy:</p>
           <ol>
               <li><strong>Usability testing</strong>. Does your user know how to exit out of screens? Can they
-                  follow your intended user journey and buy something from the site you’ve designed? By running a
-                  usability test, you’ll be able to see how users will interact with your design once it’s live;
+                  follow your intended user journey and buy something from the site youve designed? By running a
+                  usability test, youll be able to see how users will interact with your design once its live;
               </li>
               <li><strong>Involving stakeholders</strong>. Need to check if your GDPR consent boxes are displaying
                   properly? Pass your prototype to your data protection team and they can test it for real;</li>
